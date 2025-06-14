@@ -18,8 +18,8 @@ interface EducationItem {
     address: "Dehradun , Uttrakhand",
   },
   {
-    startDate: "2018",
-    endDate: "2019",
+    startDate: "2020",
+    endDate: "2021",
     schoolName: "St Jude's School",
     address: "Dehradun , Uttrakhand",
     courseName: "Senior Secondary(Science Stream)",
