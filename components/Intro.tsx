@@ -1,6 +1,4 @@
-'use client'
-
-import Image from "next/image"
+"use client"
 
 const Intro = () => {
   return (

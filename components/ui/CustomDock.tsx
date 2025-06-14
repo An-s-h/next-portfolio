@@ -1,11 +1,9 @@
 "use client"
-
 import type React from "react"
 import { useEffect, useState } from "react"
 import Link from "next/link"
-import { CalendarIcon, HomeIcon, MailIcon, PencilIcon, Moon, Sun } from "lucide-react"
+import { CalendarIcon, HomeIcon, MailIcon, Moon, Sun } from "lucide-react"
 import { useTheme } from "next-themes"
-
 import { cn } from "@/lib/utils"
 import { Button, buttonVariants } from "@/components/ui/button"
 import { Separator } from "@/components/ui/separator"

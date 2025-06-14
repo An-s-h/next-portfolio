@@ -1,7 +1,5 @@
 import Intro from "@/components/Intro";
 import { Meteors } from "@/components/magicui/meteors";
-import Image from "next/image";
-import WorkExperience from "@/components/WorkExperience";
 import Education from "@/components/Education";
 import Skills from "@/components/Skills";
 import Projects from "@/components/Projects";
